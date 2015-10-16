@@ -1,2 +1,2 @@
-# Hiragana-Trainer
+# Hiragana Trainer
 Простой тест на знание Хирагана, несколько режимов.
