@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_hiragana" translatable="false">
+        <item>@drawable/su</item>
+        <item>@drawable/e</item>
+        <item>@drawable/yu</item>
+        <item>@drawable/re</item>
+        <item>@drawable/ho</item>
+        <item>@drawable/yo</item>
+        <item>@drawable/shi</item>
+        <item>@drawable/hi</item>
+        <item>@drawable/nu</item>
+        <item>@drawable/o</item>
+        <item>@drawable/ku</item>
+        <item>@drawable/sa</item>
+        <item>@drawable/n</item>
+        <item>@drawable/u</item>
+        <item>@drawable/te</item>
+        <item>@drawable/no</item>
+        <item>@drawable/chi</item>
+        <item>@drawable/na</item>
+        <item>@drawable/ra</item>
+        <item>@drawable/wa</item>
+        <item>@drawable/he</item>
+        <item>@drawable/mu</item>
+        <item>@drawable/fu</item>
+        <item>@drawable/ki</item>
+        <item>@drawable/mo</item>
+        <item>@drawable/ta</item>
+        <item>@drawable/ni</item>
+        <item>@drawable/i</item>
+        <item>@drawable/ha</item>
+        <item>@drawable/me</item>
+        <item>@drawable/ma</item>
+        <item>@drawable/se</item>
+        <item>@drawable/ko</item>
+        <item>@drawable/so</item>
+        <item>@drawable/a</item>
+        <item>@drawable/tsu</item>
+        <item>@drawable/wo</item>
+        <item>@drawable/ri</item>
+        <item>@drawable/ya</item>
+        <item>@drawable/mi</item>
+        <item>@drawable/ka</item>
+        <item>@drawable/ke</item>
+        <item>@drawable/ne</item>
+        <item>@drawable/ru</item>
+        <item>@drawable/ro</item>
+        <item>@drawable/to</item>
+    </string-array>
+</resources>
